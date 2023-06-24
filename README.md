@@ -1,2 +1,5 @@
 # usd-lak-reinforcement-learning
-Under-graduate student project for Machine learning class.
+Under-graduate student mini project for Machine learning class.
+
+the dataset name is not be accurate consider its content. The last record in the dataset was in 30 May, 2023.
+I use SARIMAX model for this mini project as it is a short-period currency rate prediction. In order to predict for more advance prediction, I would recommend you to use Long Short-Term Memory(LSTM).
